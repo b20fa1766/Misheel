@@ -1,0 +1,136 @@
+
+  
+ div {
+     background-color: rgb(99, 66, 243);
+     padding: 100px;
+     text-align: center;
+     color: white;
+     margin-top: 100px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+ }
+  img {
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    margin-top: 20px;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 150px;
+  }
+  P {
+    text-align: center;
+    
+  }
+  a1 {
+    font-family: 'Trattatello', fantasy;
+    font-size: 30px;
+
+  }
+  a2 {
+    margin-left: 900px;
+  }
+  a3 {
+    margin-left: 20px;
+  }
+  a4{ 
+    margin-left: 20px;
+  }
+  a5{ 
+    margin-left: 20px;
+    background-color: rgb(99, 66, 243);
+     padding: 10px;
+     text-align: center;
+     color: white;
+     
+
+  }
+  a6{ 
+    margin-left: 315px;
+    margin-right: 1100px;
+    background-color: whitesmoke;
+     padding: 40px;
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-bottom: 140px;
+     padding-top: 60px;
+     text-align: center;
+     color: black;
+     border-width: 2px;
+     border-color: black;
+    
+  }
+  a7{ 
+    margin-left: 555px;
+    margin-right: 500px;
+    background-color: whitesmoke;
+     padding: 40px;
+     padding-top: 78px;
+     padding-right: 100px;
+     padding-left: 100px;
+    padding-bottom: 122px;
+     text-align: center;
+     color: black;
+     
+     border-width: 2px;
+     border-color: black;
+  }
+  a8{ 
+    margin-left: 800px;
+    background-color: whitesmoke;
+     padding: 100px;
+     padding-top: 96px;
+     padding-bottom: 104px;
+     text-align: center;
+     color: black;
+     border-width: 2px;
+     border-color: black;
+  }
+  h3{ 
+    padding-left: 620px ;
+    padding-top: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p3{ 
+    padding-left: 400px ;
+    padding-top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  a9{ 
+    background-color: cornflowerblue;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 150px;
+    margin-left: 300px;
+
+  }
+  a10{ 
+    background-color: rgb(156, 185, 240);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 150px;
+    margin-left: 100px;
+
+  }
+ a11{
+  background-color: rgb(35, 62, 112);
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 150px;
+  margin-left: 100px;
+ }
+ a12{
+  background-color: rgb(241, 161, 224);
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 150px;
+  margin-left: 100px;
+  margin-top: 300px;
+  
+
+ }
+div1 {
+    padding-top: 300px;
+} 
+ 
