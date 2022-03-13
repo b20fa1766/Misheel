@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Javascrippt</h1>
+
+
+<ul id="cities">
+  <li>London</li>
+  <li>Ulaanbaatar</li>
+  <li>Seoul</li>
+  <li>Berlin</li>
+</ul>
+
+<p>The last element is:</p>
+<p id="demo"></p>
+
+<script>
+const element = document.getElementById("cities")
+document.getElementById("demo").innerHTML = element.lastElementChild.innerHTML;
+</script>
+
+</body>
+</html>
