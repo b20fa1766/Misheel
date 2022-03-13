@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>JavaScript</h2>
+<p id="demo"></p>
+
+<script>
+
+var student = {
+  name: 'Emma',
+  sclass : "VI",
+  age : 18,
+  
+};
+
+const propOwn = Object.getOwnPropertyNames(student);
+console.log(propOwn.length); 
+
+document.getElementById("demo").innerHTML = "Lenght " +  propOwn.length;
+
+
+</script>
+
+</body>
+</html>
